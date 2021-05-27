@@ -16,6 +16,8 @@ dotnet run
 ```
 6. Using any tool to send POST request to API (recommend [Postman](https://www.postman.com/))
 ## API
+### URL
+https://localhost:5001/api/calculate
 ### Request Header
 Content-type: application/json
 ### Request Body
